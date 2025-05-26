@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de Privacidad – Popoluca App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2em;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad – Popoluca App</h1>
+
+  <p><strong>Última actualización:</strong> mayo de 2025</p>
+
+  <p>La aplicación <strong>Popoluca App</strong> respeta la privacidad de los usuarios y no recopila, almacena ni comparte datos personales.</p>
+
+  <h2>1. Información recopilada</h2>
+  <p>Esta aplicación no solicita registro ni recoge información personal como nombre, correo electrónico o ubicación.</p>
+
+  <h2>2. Funcionalidad</h2>
+  <p>La app permite traducir palabras entre popoluca (4 variantes), náhuatl, mixe y español. También incluye juegos educativos como memoramas, sopas de letras, crucigramas, y actividades para colorear. No se requiere conexión a internet para acceder a las funcionalidades principales.</p>
+
+  <h2>3. Audio y micrófono</h2>
+  <p>El uso del audio es únicamente para escuchar las traducciones. No se almacena ni analiza la voz del usuario. La app no accede al micrófono del dispositivo.</p>
+
+  <h2>4. Cambios en la política</h2>
+  <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Los cambios serán reflejados en esta página.</p>
+
+  <h2>5. Contacto</h2>
+  <p>Para dudas o sugerencias, puedes contactarnos al correo ficticio: <a href="mailto:contacto@popolucaapp.com">contacto@popolucaapp.com</a></p>
+
+</body>
+</html>
